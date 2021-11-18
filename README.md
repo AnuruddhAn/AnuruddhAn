@@ -4,6 +4,11 @@
 <img src="https://profile-counter.glitch.me/AnuruddhAn/count.svg"/>
 
 
+### How to reach me : <strong>(Click the badge to view my profiles)</strong>
+
+<img src="https://img.shields.io/badge/anuruddh1997@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="anuruddh1997@gmail.com"><a href="https://www.linkedin.com/in/anuruddh-an/"><img src="https://img.shields.io/badge/Anuruddh verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+
+
 
 - 🌱 I’m currently learning **MCA**
 
