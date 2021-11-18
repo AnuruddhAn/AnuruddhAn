@@ -6,13 +6,11 @@
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
 
-<a href="anuruddh1997@gmail.com"><img src="https://img.shields.io/badge/anuruddh1997@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" </a> <a href="https://www.linkedin.com/in/anuruddh-an/"><img src="https://img.shields.io/badge/Anuruddh verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+ <a href="https://www.linkedin.com/in/anuruddh-an/"><img src="https://img.shields.io/badge/Anuruddh verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> **anuruddh1997@gmail.com**
 
 
 
 - 🌱 I’m currently learning **MCA**
-
-- 📫 How to reach me **anuruddh1997@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
