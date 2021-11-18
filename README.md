@@ -6,7 +6,7 @@
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
 **anuruddh1997@gmail.com**</br>
- <a href="https://www.linkedin.com/in/anuruddh-an/"><img src="https://img.shields.io/badge/Anuruddh verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</br> <a href="https://www.linkedin.com/in/anuruddh-an/"><img src="https://img.shields.io/badge/Anuruddh verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
  
 
 
