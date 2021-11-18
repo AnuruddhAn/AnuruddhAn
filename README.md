@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuruddh Verma</h1>
+### Profile Views :<br>
+
+<img src="https://profile-counter.glitch.me/AnuruddhAn/count.svg"/>
+
+
 
 - 🌱 I’m currently learning **MCA**
 
