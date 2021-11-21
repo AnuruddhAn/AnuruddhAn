@@ -5,8 +5,11 @@
 
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
-**anuruddh1997@gmail.com**</br>
-</br> <a href="https://www.linkedin.com/in/anuruddh-an/"><img src="https://img.shields.io/badge/Anuruddh verma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="mailto:anuruddh1997@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/anuruddh__verma"><img src="https://img.shields.io/badge/-@anuruddh__verma-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/anuruddh-an/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+
+
  
 
 
