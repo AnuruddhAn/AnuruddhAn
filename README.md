@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuruddh Verma</h1>
 ### Profile Views :<br>
 
-<img src="https://profile-counter.glitch.me/AnuruddhAn/count.svg"/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AnuruddhAn&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
 
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
