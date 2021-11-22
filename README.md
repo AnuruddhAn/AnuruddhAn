@@ -12,7 +12,7 @@
 <a href="mailto:anuruddh1997@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/anuruddh__verma"><img src="https://img.shields.io/badge/-@anuruddh__verma-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/anuruddh-an/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-
+<a href="https://twitter.com/Anuruddh_An"><img alt= "twitter" src="https://img.shields.io/badge/-@Anuruddh_An%20-%230077B5.svg?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
 
  
 
