@@ -4,7 +4,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AnuruddhAn&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
 
 >&nbsp;I'm Anuruddh verma.\
->&nbsp;I'm Final year MCA-Computer Science and Engineering student at FoET, University of Lucknow, Lucknow.\
+>&nbsp;I'm Final year MCA-Master of Computer Applications student at FoET, University of Lucknow, Lucknow.\
 >&nbsp;I am a student who want to learn something new.
 
 
