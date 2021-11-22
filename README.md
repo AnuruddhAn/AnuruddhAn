@@ -3,6 +3,10 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AnuruddhAn&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
 
+>&nbsp;I'm Anuruddh verma.\
+>&nbsp;I'm Final year MCA-Computer Science and Engineering student at FoET, University of Lucknow, Lucknow.\
+>&nbsp;I am a student who want to learn something new.\
+
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
 <a href="mailto:anuruddh1997@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
@@ -14,7 +18,7 @@
 
 
 
-- 🌱 I’m currently learning **MCA**
+- 🌱 I’m currently learning **python with data science**
 
 
 <h3 align="left">Languages and Tools:</h3>
