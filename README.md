@@ -5,7 +5,7 @@
 
 >&nbsp;I'm Anuruddh verma.\
 >&nbsp;I'm Final year MCA-Computer Science and Engineering student at FoET, University of Lucknow, Lucknow.\
->&nbsp;I am a student who want to learn something new.\
+>&nbsp;I am a student who want to learn something new.
 
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
