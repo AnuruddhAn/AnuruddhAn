@@ -6,7 +6,7 @@
 </p>
 
 >&nbsp;I'm Anuruddh Verma.\
->&nbsp;I'm a **Frontend Developer** with **3 years of experience**, specializing in **React.js, JavaScript, and modern UI frameworks**.\
+>&nbsp;I'm a **Frontend Developer** with **4 years of experience**, specializing in **React.js, JavaScript, and modern UI frameworks**.\
 >&nbsp;I have completed **MCA (Master of Computer Applications)** at FoET, University of Lucknow, Lucknow.\
 >&nbsp;I am passionate about building scalable, high-performance, and user-friendly web applications.
 
